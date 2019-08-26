@@ -1,1 +1,3 @@
 # vanguard-music
+
+npm install
